@@ -8,9 +8,9 @@ function setup() {
 function draw() {
   background(220);
   noStroke();
-  fill("white")
-  rect(0,0,600)
   fill("mediumseagreen")
+  rect(0,0,600)
+  fill("white")
   rect(0,130,600)
   stroke("crimson")
   strokeWeight(15)
